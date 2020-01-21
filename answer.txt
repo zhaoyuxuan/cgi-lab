@@ -1,0 +1,7 @@
+1. Use import os, and then print(os.environ)
+2. QUERY_STRING
+3. HTTP_USER_AGENT
+4. cgi.FieldStorage()
+5. Set-Cookie: <cookie-name>=<cookie-value> 
+6. Cookie: name=value
+7. Cookie is used to hold the information sent from the server, typically used to keep user logged in
